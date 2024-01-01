@@ -1,7 +1,6 @@
-# brs-studio-nyros-html-template-deployment
-# brs-with-nyros-html-template-deployment
-# brs-with-nyros-html-template-deployment
-# Goal-3
-# Goal-5
-# GOAL-6
-# GOAL-6
+# Portfolio
+
+###### Purpose:
+    To create a simple Portfolio on web.
+
+#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/design/portfolio).
